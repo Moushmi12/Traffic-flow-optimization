@@ -18,7 +18,7 @@ An intelligent system to optimize traffic flow in urban areas using machine lear
 
 
   ### Installation
-  git clone https://github.com/your-username/traffic-flow-optimization.git
+  git clone https://github.com/Moushmi12/traffic-flow-optimization.git
 cd traffic-flow-optimization
 pip install -r requirements.txt
 
